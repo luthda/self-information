@@ -2,8 +2,6 @@ env: flex
 runtime: java  
 runtime_config:  
   jdk: openjdk8  
-
-# test deployment
   
 handlers:  
   - url: /.*  
